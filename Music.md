@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Projects
+title: Music
+permalink: /Music
 ---
 
-# Projects
-Here is an overview of my musical projects.
+# Music
 
-- Project 1
-- Project 2
+Welcome to my Music page!
+
+Here is where I showcase my work and ongoing projects.
