@@ -1,0 +1,18 @@
+/* Custom menu styles for light and dark mode */
+.menu-link {
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 10px;
+}
+
+html[data-theme="light"] .menu-link {
+  color: #333; /* Dark text for light mode */
+}
+
+html[data-theme="dark"] .menu-link {
+  color: #fff; /* Light text for dark mode */
+}
+
+.menu-link:hover {
+  text-decoration: underline; /* Hover effect */
+}
