@@ -45,6 +45,9 @@ linkedin_username: piercejp
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
+ ### Menu 
+ [Home](#about-me) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Volunteering](#volunteering) | [Organizations](#organizations)
+
 # About Section
 # about_title: About Me
 about_profile_image: headshot.png
@@ -52,13 +55,9 @@ about_content: | # this will include new lines to allow paragraphs
  Hello! I'm Jackson! Website coming soon ;)
 
   I am most skilled in: <mark>Engineering</mark> and <mark>Music</mark>
-
 content:
+      -title: Engineering
 content:
-  - title: Menu
-    layout: text
-    content: |
-      [Home](/) | [Music](/Music) | [Work](/work)
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
