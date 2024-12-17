@@ -45,13 +45,13 @@ linkedin_username: piercejp
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
- ### Menu 
- [Home](#about-me) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Volunteering](#volunteering) | [Organizations](#organizations)
-
 # About Section
 # about_title: About Me
 about_profile_image: headshot.png
 about_content: | # this will include new lines to allow paragraphs
+ ### Menu 
+ [Home](#about-me) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Volunteering](#volunteering) | [Organizations](#organizations)
+
  Hello! I'm Jackson! Website coming soon ;)
 
   I am most skilled in: <mark>Engineering</mark> and <mark>Music</mark>
