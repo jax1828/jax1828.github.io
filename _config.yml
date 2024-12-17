@@ -46,12 +46,18 @@ linkedin_username: piercejp
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: Welcome!
 about_profile_image: headshot.png
 about_content: | # this will include new lines to allow paragraphs
- ### Menu 
- [Home](#about-me) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Volunteering](#volunteering) | [Organizations](#organizations)
-
+      <nav style="text-align: center; margin: 20px 0;">
+          <a href="#about-me" class="menu-link">Home</a> |
+          <a href="#projects" class="menu-link">Projects</a> |
+          <a href="#experience" class="menu-link">Experience</a> |
+          <a href="#education" class="menu-link">Education</a> |
+          <a href="#volunteering" class="menu-link">Volunteering</a> |
+          <a href="#organizations" class="menu-link">Organizations</a>
+        </nav>
+  
  Hello! I'm Jackson! Website coming soon ;)
 
   I am most skilled in: <mark>Engineering</mark> and <mark>Music</mark>
@@ -158,5 +164,8 @@ sass:
   sass_dir: _sass
   style: compressed
 
+additional_css:
+      -assets/css/custom.css
+      
 plugins:
  - jekyll-seo-tag
