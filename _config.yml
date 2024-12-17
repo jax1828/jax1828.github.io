@@ -13,14 +13,14 @@ website: jax1828.github.io
 phone: (313)-410-5863
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 instagram_username: jaxpierce1828
 linkedin_username: piercejp
 
 # About Section
-# about_title: Welcome!
+about_title: Welcome!
 about_profile_image: headshot.png
 about_content: | # this will include new lines to allow paragraphs
 
