@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
-
+      
 # Personal info
 name: Jackson Pierce
 title: Mechanical Engineering Student at the University of Michigan
@@ -54,6 +54,11 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Engineering</mark> and <mark>Music</mark>
 
 content:
+content:
+  - title: Menu
+    layout: text
+    content: |
+      [Home](/) | [Music](/Music) | [Work](/work)
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
