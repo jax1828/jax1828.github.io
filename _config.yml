@@ -165,7 +165,7 @@ sass:
   style: compressed
 
 additional_css:
-      -custom.css
+ -custom.css
       
 plugins:
  - jekyll-seo-tag
