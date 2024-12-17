@@ -7,12 +7,13 @@ version: 2
 
 # Personal info
 name: Jackson Pierce
-title: Engineering Student at the University of Michigan
+title: Mechanical Engineering Student at the University of Michigan
 email: piercejp@umich.edu
 website: jax1828.github.io
+phone: (313)-410-5863
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: facespics
