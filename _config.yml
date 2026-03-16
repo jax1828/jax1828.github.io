@@ -40,7 +40,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: left
         title: Low-Cost EMG Controlled Prosthetic Leg 
        # link: github.com/sproogen
         # link_text: Project Website
@@ -53,11 +53,11 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Mechanical Lead
-        description: | # this will include new lines to allow paragraphs
-        •	Designed and modeled fully articulated, brushless motor-powered knee joint mechanism
-•	Worked alongside university machinist advisors to produce milled aluminum prototype
-•	Developed multiple physical and digital models showcasing various features of the prosthesis
-- layout: top-left
+        description: >
+          •	Designed and modeled fully articulated, brushless motor-powered knee joint mechanism
+          •	Worked alongside university machinist advisors to produce milled aluminum prototype
+          •	Developed multiple physical and digital models showcasing various features of the prosthesis
+- layout: left
         title: ME250 Robotics Competition
        # link: github.com/sproogen
         # link_text: Project Website
@@ -70,9 +70,9 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           1st Place Winner!
-        description: | # this will include new lines to allow paragraphs
-       •	Designed, fabricated, and assembled a small robot to complete a series of challenges alongside a team of peers,
-       achieving a first-place finish and the honor of having our project displayed for future classes
+        description: >
+         • Designed, fabricated, and assembled a small robot to complete a series of challenges alongside a team of peers,
+         achieving a first-place finish and the honor of having our project displayed for future classes
 
 
 
