@@ -37,42 +37,26 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Engineering</mark> and <mark>Music</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+    - title: Projects
+    layout: list
     content:
       - layout: left
-        title: Low-Cost EMG Controlled Prosthetic Leg 
-       # link: github.com/sproogen
-        # link_text: Project Website
-      #  additional_links:
-         # - title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-         #   url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        title: Low-Cost EMG Controlled Prosthetic Leg
         quote: >
           Mechanical Lead
         description: >
-          •	Designed and modeled fully articulated, brushless motor-powered knee joint mechanism
-          •	Worked alongside university machinist advisors to produce milled aluminum prototype
-          •	Developed multiple physical and digital models showcasing various features of the prosthesis
-- layout: left
+          • Designed and modeled fully articulated, brushless motor-powered knee joint mechanism
+          • Worked alongside university machinist advisors to produce milled aluminum prototype
+          • Developed multiple physical and digital models showcasing various features of the prosthesis
+
+      - layout: left
         title: ME250 Robotics Competition
-       # link: github.com/sproogen
-        # link_text: Project Website
-      #  additional_links:
-         # - title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-         #   url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           1st Place Winner!
         description: >
-         • Designed, fabricated, and assembled a small robot to complete a series of challenges alongside a team of peers,
-         achieving a first-place finish and the honor of having our project displayed for future classes
+          • Designed, fabricated, and assembled a small robot to complete a series of challenges alongside a team of peers,
+            achieving a first-place finish and the honor of having our project displayed for future classes
+
 
 
 
