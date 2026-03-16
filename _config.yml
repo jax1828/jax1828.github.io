@@ -16,11 +16,11 @@ phone: (313)-410-5863
 darkmode: true
 
 # Social links
-instagram_username: jaxpierce1828
+#instagram_username: jaxpierce1828
 linkedin_username: piercejp
 
 # About Section
-about_title: Welcome!
+about_title: About Me
 about_profile_image: headshot.png
 about_content: | # this will include new lines to allow paragraphs
 
@@ -32,15 +32,16 @@ about_content: | # this will include new lines to allow paragraphs
     <a href="#volunteering" class="menu-link">Volunteering</a> |
     <a href="#organizations" class="menu-link">Organizations</a>
   </nav>
-  Hello! I'm Jackson! Website coming soon ;)
+  Hello! I'm Jackson, a Mechanical Engineering student at the University of Michigan. I am passionate about nuclear power, mechanical design, biomechanics, and automotive engineering.
+  
   I am most skilled in: <mark>Engineering</mark> and <mark>Music</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Low Cost EMG Controlled Prosthetic Leg 
+      - layout: top-left
+        title: Low-Cost EMG Controlled Prosthetic Leg 
        # link: github.com/sproogen
         # link_text: Project Website
       #  additional_links:
@@ -51,9 +52,29 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Prototype
+          Mechanical Lead
         description: | # this will include new lines to allow paragraphs
-          Prototype
+        •	Designed and modeled fully articulated, brushless motor-powered knee joint mechanism
+•	Worked alongside university machinist advisors to produce milled aluminum prototype
+•	Developed multiple physical and digital models showcasing various features of the prosthesis
+- layout: top-left
+        title: ME250 Robotics Competition
+       # link: github.com/sproogen
+        # link_text: Project Website
+      #  additional_links:
+         # - title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+         #   url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          1st Place Winner!
+        description: | # this will include new lines to allow paragraphs
+       •	Designed, fabricated, and assembled a small robot to complete a series of challenges alongside a team of peers,
+       achieving a first-place finish and the honor of having our project displayed for future classes
+
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
