@@ -26,11 +26,12 @@ about_content: | # this will include new lines to allow paragraphs
 
   Hello! I'm Jackson, a Mechanical Engineering student at the University of Michigan. I am passionate about nuclear power, mechanical design, biomechanics, and automotive engineering.
   
+  
   Software: <mark>AutoCAD</mark> <mark>Solidworks</mark> <mark>Siemens NX</mark> <mark>Fusion360</mark> <mark>Inventor</mark> <mark>MATLAB & Simulink</mark> <mark>Adobe InDesign</mark> <mark>ArcGIS</mark> 
   
   <mark>Altair Hyperworks</mark> <mark>Python</mark> <mark>LaTeX</mark> <mark>ADAMs</mark>
   
-  Machines: <mark>Mill</mark>, <mark>Lathe</mark>, <mark>Waterjet</mark>, <mark>CNC Router</mark>, <mark>FDM Printing</mark>
+  Machines: <mark>Mill</mark> <mark>Lathe</mark> <mark>Waterjet</mark> <mark>CNC Router</mark> <mark>FDM Printing</mark>
 content:
   - title: Projects
     layout: list
@@ -47,7 +48,24 @@ content:
           • Worked alongside university machinist advisors to produce milled aluminum prototype
           
           • Developed multiple physical and digital models showcasing various features of the prosthesis
+      - layout: left
+        title: Project Car
+        sub_title: 2001 BMW 325Ci
+        caption: Ongoing
+        quote: >
+          1st Place Winner!
+        description: |
+          • Replaced front suspension (struts, control arms, tie rods, sway bar links)
 
+          • Replaced brake pads, rotors, fluid
+
+          • Replaced power steering resevoir, fluid
+
+          • Performed coolant flush and refill
+
+          • Installed adjustable rear control arms (tasteful camber coming soon...)
+
+          • Diagnosed misfire, replaced coil pack + plugs
       - layout: left
         title: Mechanical Engineering Robotics Competition
         sub_title: ME250, UofM
@@ -142,17 +160,6 @@ content:
           • Teach and advise elementary and high school robotics students in technical concepts, including physics, mechanical design, and project planning, as well as the various soft skills required for successful collaborative engineering.
 
           
-  - title: A Little More About Me
-    layout: text
-    content: |
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 
 # Footer
