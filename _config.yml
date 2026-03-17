@@ -26,8 +26,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   Hello! I'm Jackson, a Mechanical Engineering student at the University of Michigan. I am passionate about nuclear power, mechanical design, biomechanics, and automotive engineering.
   
-  I am most skilled in: <mark>Engineering</mark> and <mark>Music</mark>
-
+  Software: <mark>AutoCAD</mark>, <mark>Solidworks</mark>, <mark>Siemens NX</mark>, <mark>Fusion360</mark>, <mark>Inventor</mark>, <mark>MATLAB & Simulink</mark>, <mark>Adobe InDesign</mark>, <mark>ArcGIS</mark>, <mark>Altair Hyperworks</mark>, <mark>Python</mark>, <mark>LaTeX</mark>, <mark>ADAMs</mark>
+  Machines: <mark>Mill</mark>, <mark>Lathe</mark>, <mark>Waterjet</mark>, <mark>CNC Router</mark>, <mark>FDM Printing</mark>
 content:
   - title: Projects
     layout: list
@@ -67,7 +67,9 @@ content:
           Worked alongside warranty engineers and lab technicians to analyze failed parts and prompt internal process improvements.
         description: |
           •	Developed Arduino-based electrical testing solution, reducing cycle time by 80%
+          
           •	Assisted in automating data collection and analysis using Microsoft Power Automate and Copilot, integrating AI classification to reduce tedium and reallocate engineering resources, saving 20+ hours of company time each week
+         
           •	Analyzed failed warranty parts physically using 3D microscopy, FTIR, and CAN functional testing equipment, then applied this data to advise design refinements
 
   - title: Education
@@ -80,9 +82,9 @@ content:
         #quote: >
          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: |
-          GPA: 3.889
+          • GPA: 3.889
           
-          Dean's List
+          • Dean's List
       - layout: left
         title: Wayne State University
         caption: 2022-2024
@@ -90,9 +92,9 @@ content:
         #quote: >
          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: |
-          GPA: 3.943
+          • GPA: 3.943
           
-          Dean's List
+          • Dean's List
 
   - title: Organizations
     layout: list
@@ -103,16 +105,16 @@ content:
         sub_title: Michigan Marching Band
         caption: 2024 - Present
         quote: >
-          "When a hush settles over that stadium and we all anxiously wait for that simple 4 word command to eminate out of the P.A. system. I can hear it now! "Band take the field!" and out of that eastern tunnel pour 215 well 
+          "...When a hush settles over that stadium and we all anxiously wait for that simple 4 word command to eminate out of the P.A. system. I can hear it now! "Band take the field!" and out of that eastern tunnel pour 215 well 
           drilled, well disciplined Michigan bandsmen. They pour over the Eastern sideline and they form the big block M and they play the greatest college fight song ever written! The Michigan Victors! That's when the chills go up
           and down your spine! You get goose pimples all over, your blood turns maize and blue and everyone out there becomes part of the winningest tradition in the history of Big Ten football as well as 
           the winningest tradition in the history of Big Ten athletics. Folks lets join in and sing the song that the late and great John Phillip Sousa claimed was the greatest college fight song ever written. The Michigan Victors!"
 
           -Bob Ufer
         description: |
-          Euphonium Section Leader
+          • Euphonium Section Leader
 
-          Equipment Staff
+          • Equipment Staff
 
       - layout: left
         title: Kappa Kappa Psi
@@ -122,11 +124,21 @@ content:
         quote: >
           "Kappa Kappa Psi is a co-educational fraternal organization that advances college and university bands for the benefit of its members and society through dedicated service and support to the bands, encouragement of musical growth, lifelong educational experiences, leadership opportunities, and recognition."
         description: |
-          Rituals and Regalia Chair
+          • Rituals and Regalia Chair
 
-          Music Committee Chair
+          • Music Committee Chair
 
-          Engaged in myriad professional development, service, and leadership activities specifically pertaining to the practice of music, including the arrangement and direction thereof.
+          • Engaged in myriad professional development, service, and leadership activities specifically pertaining to the practice of music, including the arrangement and direction thereof.
+          
+      - layout: left
+        title: First Robotics Competition
+        link: https://www.thebluealliance.com/team/7196
+        sub_title: Academy of the Americas / Team 7196
+        caption: 2022 - Present
+        quote: >
+          “...it’s like the WWF, but for smart people!” -President George H. W. Bush
+        description: |
+          • Teach and advise elementary and high school robotics students in technical concepts, including physics, mechanical design, and project planning, as well as the various soft skills required for successful collaborative engineering.
 
           
   - title: A Little More About Me
