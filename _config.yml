@@ -97,7 +97,7 @@ content:
   - title: Organizations
     layout: list
     content:
-     - layout: left
+      - layout: left
         title: MMB
         link: https://michiganmarchingband.com/
         sub_title: Michigan Marching Band
