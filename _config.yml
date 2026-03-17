@@ -26,7 +26,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   Hello! I'm Jackson, a Mechanical Engineering student at the University of Michigan. I am passionate about nuclear power, mechanical design, biomechanics, and automotive engineering.
   
-  Software: <mark>AutoCAD</mark>, <mark>Solidworks</mark>, <mark>Siemens NX</mark>, <mark>Fusion360</mark>, <mark>Inventor</mark>, <mark>MATLAB & Simulink</mark>, <mark>Adobe InDesign</mark>, <mark>ArcGIS</mark>, <mark>Altair Hyperworks</mark>, <mark>Python</mark>, <mark>LaTeX</mark>, <mark>ADAMs</mark>
+  Software: <mark>AutoCAD</mark> <mark>Solidworks</mark> <mark>Siemens NX</mark> <mark>Fusion360</mark> <mark>Inventor</mark> <mark>MATLAB & Simulink</mark> <mark>Adobe InDesign</mark> <mark>ArcGIS</mark> 
+  
+  <mark>Altair Hyperworks</mark> <mark>Python</mark> <mark>LaTeX</mark> <mark>ADAMs</mark>
+  
   Machines: <mark>Mill</mark>, <mark>Lathe</mark>, <mark>Waterjet</mark>, <mark>CNC Router</mark>, <mark>FDM Printing</mark>
 content:
   - title: Projects
@@ -106,9 +109,7 @@ content:
         caption: 2024 - Present
         quote: >
           "...When a hush settles over that stadium and we all anxiously wait for that simple 4 word command to eminate out of the P.A. system. I can hear it now! "Band take the field!" and out of that eastern tunnel pour 215 well 
-          drilled, well disciplined Michigan bandsmen. They pour over the Eastern sideline and they form the big block M and they play the greatest college fight song ever written! The Michigan Victors! That's when the chills go up
-          and down your spine! You get goose pimples all over, your blood turns maize and blue and everyone out there becomes part of the winningest tradition in the history of Big Ten football as well as 
-          the winningest tradition in the history of Big Ten athletics. Folks lets join in and sing the song that the late and great John Phillip Sousa claimed was the greatest college fight song ever written. The Michigan Victors!"
+          drilled, well disciplined Michigan bandsmen. They pour over the Eastern sideline and they form the big block M and they play the greatest college fight song ever written! The Michigan Victors!"
 
           -Bob Ufer
         description: |
@@ -136,7 +137,7 @@ content:
         sub_title: Academy of the Americas / Team 7196
         caption: 2022 - Present
         quote: >
-          “...it’s like the WWF, but for smart people!” -President George H. W. Bush
+          “...it’s like the WWF, but for smart people!” -President George H. W. Bush (alledgedly)
         description: |
           • Teach and advise elementary and high school robotics students in technical concepts, including physics, mechanical design, and project planning, as well as the various soft skills required for successful collaborative engineering.
 
