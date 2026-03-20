@@ -28,7 +28,6 @@ about_content: | # this will include new lines to allow paragraphs
   
   
   Software: <mark>AutoCAD</mark> <mark>Solidworks</mark> <mark>Siemens NX</mark> <mark>Fusion360</mark> <mark>Inventor</mark> <mark>MATLAB & Simulink</mark> <mark>Adobe InDesign</mark> <mark>ArcGIS</mark> 
-  
   <mark>Altair Hyperworks</mark> <mark>Python</mark> <mark>LaTeX</mark> <mark>ADAMs</mark>
   
   Machines: <mark>Mill</mark> <mark>Lathe</mark> <mark>Waterjet</mark> <mark>CNC Router</mark> <mark>FDM Printing</mark>
@@ -66,6 +65,20 @@ content:
           • Installed adjustable rear control arms (tasteful camber coming soon...)
 
           • Diagnosed misfire, replaced coil pack + plugs
+          
+      - layout: left
+        title: Michigan Marching Band
+        sub_title: Inventory Management App
+        caption: Ongoing
+        quote: >
+          Efficiently manage equipment
+        description: |
+          • Developing Microsoft Power Automate Canvas app and Sharepoint site to efficiently and expeditiously sign uniforms and instruments in and out
+          
+          • Users can scan preexisting university asset management barcodes to log equipment
+          
+          • Staff can quickly check "who has what" and correct any errors
+          
       - layout: left
         title: Mechanical Engineering Robotics Competition
         sub_title: ME250, UofM
@@ -85,13 +98,36 @@ content:
         sub_title: OPMobility (Plastic Omnium)
         caption: Summer 2025
         quote: >
-          Worked alongside warranty engineers and lab technicians to analyze failed parts and prompt internal process improvements.
+          Worked alongside warranty engineers and lab technicians to analyze failed parts and prompt internal process improvements
         description: |
           •	Developed Arduino-based electrical testing solution, reducing cycle time by 80%
           
           •	Assisted in automating data collection and analysis using Microsoft Power Automate and Copilot, integrating AI classification to reduce tedium and reallocate engineering resources, saving 20+ hours of company time each week
          
           •	Analyzed failed warranty parts physically using 3D microscopy, FTIR, and CAN functional testing equipment, then applied this data to advise design refinements
+      - layout: left
+        title: Engineering Intern
+        #link:
+        sub_title: OCC Systems
+        caption: Summer 2023, 2024
+        #quote: >
+          #Worked alongside warranty engineers and lab technicians to analyze failed parts and prompt internal process improvements.
+        description: |
+          •	Generated CAD layout and detail drawings for automotive conveyor systems and associated fencing
+          
+          •	Lead on-site drawing management and distribution, releasing 100+ drawings for assembly
+         
+          •	Utilized Microsoft Access to aid in site logistics, including tracking incoming materials and released drawings
+      - layout: left
+        title: Student Assistant
+        #link:
+        sub_title: Environmental Chemistry Research Laboratory
+        caption: Sep 2022 - Jan 2023
+        #quote: >
+          #Worked alongside warranty engineers and lab technicians to analyze failed parts and prompt internal process improvements.
+        description: |
+          •	Produced weekly calibration standards and curves for use in carbon analysis, including TIC and TOC
+          •	Operated industry standard lab equipment and associated software, such as optical and NMR spectrometers	
 
   - title: Education
     layout: list
@@ -103,6 +139,8 @@ content:
         #quote: >
          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: |
+          • Expected Graduation December, 2026
+          
           • GPA: 3.889
           
           • Dean's List
